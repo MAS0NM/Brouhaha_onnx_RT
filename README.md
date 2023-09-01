@@ -30,6 +30,8 @@ run ckpt2onnx.ipynb
 python onnx_RT.py
 ```
 ![]( res.jpg)
+
+The test data comes from `https://marvinlvn.github.io/projects/1_project/`
 ### Extract predictions
 
 ```
